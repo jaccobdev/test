@@ -6,10 +6,10 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Jakub",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Marczak",
+  message: " Enthusiast of bot development and kali linux hacking for only educational purpose. ",
   icons: [
     {
       image: "fa-github",
@@ -21,15 +21,12 @@ const mainBody = {
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/jacob.devv/",
     },
     {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
+      
     {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+     
     },
   ],
 };
